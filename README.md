@@ -13,6 +13,12 @@ Natural language meets local desktop automation.
 
 ARIA voice and AI assistant.
 
+## Interface preview
+
+![ARIA prototype interface extracted from the Phase 2 presentation](docs/assets/aria-prototype.png)
+
+This screenshot shows a captured prototype session, rather than a new performance or runtime test.
+
 ## Engineering highlights
 
 - Local Ollama inference for natural-language commands
