@@ -1,0 +1,17 @@
+
+# Local credentials and generated dependencies
+.env
+.env.local
+.env.*.local
+api keys.txt
+api_keys.json
+*.key
+*.pem
+*.vault
+.git/
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+*.log
